@@ -24,7 +24,7 @@ h6 {
 }
 
 h2 {
-  color: #292929;
+  color: #007D7D;
   font-weight: 600;
 }
 
@@ -48,7 +48,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #999999;
+  color: #007D7D;
   line-height: 28px;
 }
 
@@ -63,7 +63,7 @@ p {
 }
 
 .btn {
-  background: #333;
+  background: #007D7D;
   border: medium none;
   border-radius: 0;
   color: #fff;
@@ -76,7 +76,8 @@ p {
 
 .btn:hover,
 .btn:focus {
-  color: #fff;
+  color: #0d0000;
+  background-color: #18d26e;
 }
 
 .padDiv {
