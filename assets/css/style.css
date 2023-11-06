@@ -684,7 +684,7 @@ p {
   bottom: 0;
   z-index: 3;
   transition: all ease-in-out 0.3s;
-  background: rgba(255, 255, 255, 0.9);
+
   padding: 15px;
 }
 
@@ -708,7 +708,7 @@ p {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #b8a07e;
+  color:#007d7d;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover,
